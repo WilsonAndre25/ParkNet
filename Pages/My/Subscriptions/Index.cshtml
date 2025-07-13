@@ -1,0 +1,49 @@
+﻿@page
+@model ParkNet.Pages.My.Subscriptions.IndexModel
+@using ParkNet.Data.Entities
+
+
+@{
+    ViewData["Title"] = "by Subscription";
+}
+
+
+
+
+<h2>Nova Assinatura</h2>
+
+<table>
+<form method="post">
+    <div class="form-group">
+        <label for="ParkingLotId">Estacionamento</label>
+        <select asp-for="Input.ParkingLotId" class="form-control" asp-items="@(new SelectList(Model.ParkingLots, "Id", "Name"))">
+            <option value="">-- Selecione um estacionamento --</option>
+        </select>
+        <span asp-validation-for="Input.ParkingLotId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="SpotId">Vaga Disponível</label>
+        <select asp-for="Input.SpotId" class="form-control" asp-items="@(new SelectList(Model.AvailableSpots, "Id", "Number"))">
+            <option value="">-- Selecione uma vaga --</option>
+        </select>
+        <span asp-validation-for="Input.SpotId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="TypeBalance">Tipo de Assinatura</label>
+        <select asp-for="Input.TypeBalance" class="form-control" asp-items="Html.GetEnumSelectList<TypeBalance>()">
+            <option value="">-- Selecione o tipo --</option>
+        </select>
+        <span asp-validation-for="Input.TypeBalance" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Confirmar Assinatura</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+}
+   
+</table>

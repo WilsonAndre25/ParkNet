@@ -1,0 +1,66 @@
+﻿@page
+@model ParkNet.Pages.My.AvencaBookings.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AvencaBooking</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AvencaBooking.Id" />
+            <div class="form-group">
+                
+                <label asp-for="AvencaBooking.TypeBalance" class="control-label"></label>
+                <select asp-for="AvencaBooking.TypeBalance" class="form-control"></select>
+                <span asp-validation-for="AvencaBooking.TypeBalance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="AvencaBooking.EntryDate" class="control-label"></label>
+                <input asp-for="AvencaBooking.EntryDate" class="form-control" />
+                <span asp-validation-for="AvencaBooking.EntryDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="AvencaBooking.ExitDate" class="control-label"></label>
+                <input asp-for="AvencaBooking.ExitDate" class="form-control" />
+                <span asp-validation-for="AvencaBooking.ExitDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="AvencaBooking.UserId" class="control-label"></label>
+                <select asp-for="AvencaBooking.UserId" class="form-control" asp-items="ViewBag.UserId"></select>
+                <span asp-validation-for="AvencaBooking.UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="AvencaBooking.SpotId" class="control-label"></label>
+                <select asp-for="AvencaBooking.SpotId" class="form-control" asp-items="ViewBag.SpotId"></select>
+                <span asp-validation-for="AvencaBooking.SpotId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                
+                <label asp-for="AvencaBooking.ParkingLotId" class="control-label"></label>
+                <select asp-for="AvencaBooking.ParkingLotId" class="form-control" asp-items="ViewBag.ParkingLotId"></select>
+                <span asp-validation-for="AvencaBooking.ParkingLotId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

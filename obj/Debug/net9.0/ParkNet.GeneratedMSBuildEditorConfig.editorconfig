@@ -28,16 +28,132 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/AvencaBookings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcQXZlbmNhQm9va2luZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/AvencaBookings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcQXZlbmNhQm9va2luZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/AvencaBookings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcQXZlbmNhQm9va2luZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/AvencaBookings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcQXZlbmNhQm9va2luZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/AvencaBookings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcQXZlbmNhQm9va2luZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Floors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcRmxvb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Floors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcRmxvb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Floors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcRmxvb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Floors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcRmxvb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Floors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcRmxvb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingLots/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ0xvdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingLots/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ0xvdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingLots/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ0xvdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingLots/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ0xvdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingLots/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ0xvdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingSpots/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ1Nwb3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingSpots/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ1Nwb3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingSpots/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ1Nwb3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingSpots/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ1Nwb3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkingSpots/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya2luZ1Nwb3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkRegisters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya1JlZ2lzdGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkRegisters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya1JlZ2lzdGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkRegisters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya1JlZ2lzdGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkRegisters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya1JlZ2lzdGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/ParkRegisters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcUGFya1JlZ2lzdGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Subscriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcU3Vic2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Subscriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcU3Vic2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Subscriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcU3Vic2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Subscriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcU3Vic2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/My/Subscriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlcU3Vic2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Proj2_CsharpAdvance/ParkingCar/ParkNet/Pages/Privacy.cshtml]
